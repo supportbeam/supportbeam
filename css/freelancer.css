@@ -139,6 +139,7 @@ header .intro-text .skills {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+        line-height: 0.5;
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -152,8 +153,9 @@ header .intro-text .skills {
 
 .navbar-default .navbar-nav>li>a {
   color: #ffffff;
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-family: 'Titillium Web', sans-serif;
+  text-transform: uppercase;
 }
 
 .navbar {
