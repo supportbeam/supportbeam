@@ -482,3 +482,8 @@ footer .footer-below {
   max-width: 30%;
   height: auto;
 }
+
+.project {
+    border: black solid 1px;
+    height: 200px;
+}
